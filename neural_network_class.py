@@ -480,3 +480,4 @@ class NeuralNetworkModel:
     across all epochs) of the model."""
     def get_training_cost_values_over_epochs(self):
         return self.training_cost_values_over_epochs
+
